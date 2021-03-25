@@ -1,0 +1,14 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 1% 20%;
+}
+.recipe {
+  background-color: rgb(241, 241, 241);
+  padding: 30px;
+}
+.recipelink {
+  text-align: center;
+}
+.header {
+  text-align: center;
+}
